@@ -9,7 +9,7 @@ body {
 	background: #f1f1f1;
 }
 #wrapper {
-	background: url(../images/bg.gif) repeat-x top;
+	
 }
 #wrapper-subpage {
 	background: url(../images/bg_subpage.gif) repeat-x top;
@@ -83,7 +83,7 @@ body {
 
 .header-right {
 	float: left;
-	background: #6ba1db url(../images/header_right_bg.gif) repeat-x left bottom;
+	background: #e4e4e4;
 	width: 338px;
 	height: 271px;
 	margin-left: 10px;
@@ -91,13 +91,13 @@ body {
 }
 
 	.header-description {
-		color: #ffffff;
+		color: #606060;
 		font-size: 12px;
 		font-family:Arial,Helvetica,sans-serif;
 	}
 			
 	.header-description h2 {
-		color: #ffffff;
+		color: #000;
 	}
 			
 	.header-description h2 {
