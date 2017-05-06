@@ -76,6 +76,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="about.html" />
+    <Content Include="contact.html" />
     <Content Include="css\jquery.jcarousel.css" />
     <Content Include="css\lightbox.css" />
     <Content Include="css\reset.css" />
@@ -142,6 +143,8 @@
     <Content Include="images\styled_button_gradient.png" />
     <Content Include="images\top.gif" />
     <Content Include="index.html" />
+    <Content Include="layout.html" />
+    <Content Include="portfolio.html" />
     <Content Include="scripts\contact.js" />
     <Content Include="scripts\dd_belated_png.js" />
     <Content Include="scripts\hoverIntent.js" />
@@ -154,6 +157,7 @@
     <Content Include="scripts\jquery.jcarousel.pack.js" />
     <Content Include="scripts\jquery.lightbox.js" />
     <Content Include="scripts\superfish.js" />
+    <Content Include="services.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
