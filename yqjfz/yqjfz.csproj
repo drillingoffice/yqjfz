@@ -147,6 +147,7 @@
     <Content Include="index.html" />
     <Content Include="layout.html" />
     <Content Include="portfolio.html" />
+    <Content Include="project.html" />
     <Content Include="scripts\contact.js" />
     <Content Include="scripts\dd_belated_png.js" />
     <Content Include="scripts\hoverIntent.js" />
