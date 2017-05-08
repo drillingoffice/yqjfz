@@ -12,7 +12,7 @@ body {
 	
 }
 #wrapper-subpage {
-	background: url(../images/bg_subpage.gif) repeat-x top;
+
 }
 
 
@@ -152,7 +152,7 @@ body {
 	width: 936px;
 	margin: 0 auto;
 	margin-top: 12px;
-	background: #6ea5e0 url(../images/header_content_bg.gif) repeat-x;	
+	background: #6ea5e0;
 	height: 81px;
 }	
 #header-content-h1-padding {
