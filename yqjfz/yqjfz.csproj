@@ -147,6 +147,8 @@
     <Content Include="images\top.gif" />
     <Content Include="index.html" />
     <Content Include="layout.html" />
+    <Content Include="platform-information.html" />
+    <Content Include="platform-provider.html" />
     <Content Include="portfolio.html" />
     <Content Include="project.html" />
     <Content Include="scripts\contact.js" />
@@ -162,8 +164,13 @@
     <Content Include="scripts\jquery.lightbox.js" />
     <Content Include="scripts\superfish.js" />
     <Content Include="services.html" />
+    <Content Include="staff-chief.html" />
+    <Content Include="staff-other.html" />
     <Content Include="teach-experiment.html" />
+    <Content Include="teach-plan.html" />
     <Content Include="teach-resource.html" />
+    <Content Include="teach-result.html" />
+    <Content Include="teach-share.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
