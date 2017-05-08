@@ -68,6 +68,7 @@
   <ItemGroup>
     <Content Include="history.html" />
     <Content Include="images\header1.jpg" />
+    <Content Include="innovation.html" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
