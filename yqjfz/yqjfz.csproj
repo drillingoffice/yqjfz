@@ -68,6 +68,18 @@
   <ItemGroup>
     <Content Include="history.html" />
     <Content Include="images\header1.jpg" />
+    <Content Include="images\image-1.jpg" />
+    <Content Include="images\image-2.jpg" />
+    <Content Include="images\image-3.jpg" />
+    <Content Include="images\image-4.jpg" />
+    <Content Include="images\project-1.png" />
+    <Content Include="images\project-2.png" />
+    <Content Include="images\project-3.png" />
+    <Content Include="images\project-4.png" />
+    <Content Include="images\project-5.png" />
+    <Content Include="images\project-6.png" />
+    <Content Include="images\project-7.png" />
+    <Content Include="images\teach-1.png" />
     <Content Include="innovation.html" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
