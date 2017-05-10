@@ -102,11 +102,6 @@
     <Content Include="images\teach-1.png" />
     <Content Include="innovation.html" />
     <Content Include="packages.config" />
-    <Content Include="teach-experiment-1.html.bak" />
-    <Content Include="teach-experiment-2.html.bak" />
-    <Content Include="teach-experiment-3.html.bak" />
-    <Content Include="teach-experiment-4.html.bak" />
-    <Content Include="teach-experiment.html.bak" />
     <Content Include="teach-share.html.bak" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
