@@ -1,0 +1,422 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+		<title>钻井工程临境地质模拟</title>
+		<!-- layout style -->
+		<link href="css/reset.css" rel="stylesheet" type="text/css" media="screen" />
+		<link href="css/typography.css" rel="stylesheet" type="text/css" media="screen" />
+		<link href="css/style.css" rel="stylesheet" type="text/css" media="screen" />
+		
+		<!-- jquery -->
+		<script type="text/javascript" src="scripts/jquery-1.2.6.min.js"></script>
+		<!-- jflow -->
+		<script type="text/javascript" src="scripts/jquery.flow.1.2.min.js"></script>
+		<!-- superfish -->
+		<link rel="stylesheet" type="text/css" href="css/superfish.css" media="screen" />
+		<script type="text/javascript" src="scripts/hoverIntent.js"></script>
+		<script type="text/javascript" src="scripts/superfish.js"></script>
+		<!-- initialize slider -->
+		<script type="text/javascript" src="scripts/init_jflow_slider.js"></script>
+
+		<script type="text/javascript">
+
+		jQuery(function(){
+			jQuery('ul.sf-menu').superfish();
+		});
+		
+		</script>
+		<!--[if IE 6]>
+		<script src="scripts/dd_belated_png.js"></script>
+		<script>
+			DD_belatedPNG.fix('#header-left-border, #header-right-border, #header-left-border-subpage, #header-right-border-subpage, #header-center-border, #header-center-border-subpage, #logo, img, blockquote');
+		</script>
+		<![endif]--> 
+
+	</head>
+<body>
+
+<div id="wrapper-subpage">
+
+<div id="container">
+	<div id="top">
+		<div id="logo">
+			<a href="index.html"><img src="images/logo.png" alt=""/></a>
+		</div>
+		<div id="top-right">
+			<div id="block-search">
+				<h2>Search</h2>
+
+				<div class="content">
+					<!--form action="/corporate/"  accept-charset="UTF-8" method="post" id="search-block-form">
+					<div>
+						<div class="container-inline">
+							<div class="form-item" id="edit-search-wrapper">
+								<input type="text" maxlength="128" name="search_block_form" id="edit-search" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+							</div>
+							<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+						</div>
+
+					</div>
+					</!--form-->
+				</div>
+			</div>
+		</div>
+		
+	</div>
+	<div id="menu-container">
+	
+		<div id="nav-menu">
+            <ul class="sf-menu">
+                <li>
+                    <a href="index.html">首页</a>
+                </li>
+                <li>
+                    <a href="history.html">发展历程</a>
+                </li>
+                <li>
+                    <a href="project.html" class="current">建设概况</a>
+                </li>
+                <li>
+                    <a href="innovation.html">特色创新</a>
+                </li>
+                <li>
+                    <a href="teach-resource.html">教学资源</a>
+                    <ul>
+                        <li>
+                            <a href="teach-experiment.html">教学实验</a>
+                        </li>
+                        <li>
+                            <a href="teach-share.html">教学共享</a>
+                        </li>
+                        <li>
+                            <a href="teach-plan.html">共享计划</a>
+                        </li>
+
+                        <li>
+                            <a href="teach-result.html">成果转化</a>
+
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="platform-information.html">平台建设</a>
+
+                    <ul>
+                        <li><a href="platform-information.html">信息化平台</a></li>
+                        <li><a href="platform-provider.html">条件保障</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="staff-chief.html">教学队伍</a>
+                    <ul>
+                        <li><a href="staff-chief.html">教学负责人</a></li>
+                        <li><a href="staff-other.html">队伍情况</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="contact.html">联系我们</a>
+                </li>
+            </ul>
+		</div>
+	
+	</div>
+	<div class="clear"></div>
+	<div id="header-subpage">
+		<div id="header-left-border-subpage"></div>
+		<div id="header-center-border-subpage">
+		
+			<div id="header-content-container-subpage">
+				<div id="header-content">
+					<div class="float-left">
+						<div id="header-content-h1-padding">
+							<h1>虚拟仿真实验教学资源</h1>
+						</div>
+					</div>
+					<div class="float-right">
+						<div id="header-content-h3-padding">
+							<h3>钻井工程临境地质模拟</h3>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+		<div id="header-right-border-subpage"></div>	
+	</div>
+	<div class="clear"></div>
+	<div id="content">
+		<div class="two-column-2-left">
+					
+			<!--Categories -->
+			<!-- Box Start -->
+			<div class="box">
+				<div class="top"><span></span></div>
+				<div class="box-content">
+					<div class="box-content2">
+						<div class="box-padding">
+						
+						<!-- Content Begin -->
+						
+						<h2>虚拟仿真实验教学资源</h2>
+								
+						<ul class="vertical-menu">
+							<li><a href="#">钻井工程临境地质模拟</a></li>
+							<li><a href="#">一体化钻井工程设计</a></li>
+							<li><a href="#">井控模拟虚拟教学</a></li>
+							<li><a href="#">固井工程设计及注水泥模拟</a></li>
+						</ul>
+							
+						<!-- Content End -->
+					
+						
+						</div>
+					</div>
+					
+				</div>
+				<div class="bottom"><span></span></div>
+			</div>
+			<div class="clear"></div>
+			<!-- Box End -->
+			
+			
+			<!--Testimonials -->
+			<!-- Box Start -->
+			<!--div class="box">
+				<div class="top"><span></span></div>
+				<div class="box-content">
+					<div class="box-content2">
+						<div class="box-padding">
+						
+	
+						
+						<h2>Testimonials</h2>
+								
+						<div class="testimonial">     
+							<blockquote cite="http://sensationalpixels.com">
+								<p class="quote">Duis sit amet leo non tortor condimentum tempus. Quisque eget turpis</p>
+								<p class="author">- John Doe, Company Name</p>
+							</blockquote>
+						</div>
+
+					
+						
+						</div>
+					</div>
+					
+				</div>
+				<div class="bottom"><span></span></div>
+			</!--div-->
+			<div class="clear"></div>
+
+			
+		</div>
+	
+		<div class="two-column-2-right">
+			
+			<!-- Box Start -->
+			<div class="box">
+				<div class="top"><span></span></div>
+				<div class="box-content">
+					<div class="box-content2">
+						<div class="box-padding">
+						
+						<!-- Content Begin -->
+						
+						<h2>钻井工程临境地质模拟</h2>
+
+
+						<span class="span-indent">
+						
+                                
+                              石油钻井是一项隐蔽性地下工程，地质条件复杂多变，钻井过程中潜在一些风险和不确定性因素，利用人工智能方法分析、处理、解释不精确或不确定的随钻实时信息，建立直观的三维地质模型和井眼轨迹模型，对于提高钻井效率、减少钻井风险、优化作业过程、降低钻井成本具有十分重要的意义。“钻井工程临境地质模拟及三维井眼轨迹显示系统”正是基于这样的考虑被研究、开发并应用于国内各大油田以及我校的钻井工程教学实践中，其目的是根据地震、电测、随钻测量、随钻测井、综合录井、地质录井等提供的各种信息，从传统的数据分析、处理、解释出发，利用虚拟现实技术对地质分层、储层、井眼轨迹、靶区等进行三维可视化模拟，建立地质导向钻井虚拟环境，为钻井人员提供一个临境式可视化环境，可直观地看到地下地层及钻井轨迹的真实场景，提供全景式的数据分析，真正实现三维数据的全三维解释。
+						
+                             </span><br />
+
+                            
+
+						<span class="span-indent">
+                              主要内容包括以下几方面：
+                            </span><br />
+							
+                         <span class="span-indent">
+                                ①地层三维可视化：以便清楚地看到地层的起伏，使钻井技术人员对地下情况及钻进过程有直观的了解，达到根据地层构造的特点调整钻井工艺的目的（如图10所示）。
+                            </span><br />
+
+
+                         <span class="span-indent">
+                               ②老井井眼轨迹三维可视化：便于比较老井眼与新井眼轨迹的位置，计算轨迹间的最近距离，达到防碰的目的。
+                            </span><br /> 
+
+
+						 <span class="span-indent">
+                                ③设计轨道三维可视化：将设计轨道三维可视化，使钻井技术人员可以观察、分析实钻轨迹与设计轨道的偏差，以便调整钻井工艺。
+                            </span><br /> 
+							
+							
+						 <span class="span-indent">
+                               ④靶点三维可视化：将设计的靶点三维可视化，可以对靶点区域进行放大，当钻井轨迹到了靶点附近时，使技术人员能够准确地观察和控制轨迹走向（如图12所示）。
+                            </span><br />
+
+
+                          <span class="span-indent">
+                               ⑤实钻轨迹三维可视化：根据钻井参数采集仪器传递的数据，实时三维立体显示实钻轨迹，使钻井技术人员可以随时直观地观察轨迹走向，了解钻井深度，以及轨迹穿越地层的情况等（如图12所示）。
+                            </span><br />
+
+							
+
+                        </p>
+
+
+						<p class="image-center">	
+                            <img src="images/experiment1-1.png" alt="Image"  /> <br />
+                            图1 地层三维可视化
+						  </p>
+
+
+                        <p class="image-center">	
+                            <img src="images/experiment1-2.png" alt="Image"  /> <br />
+                            图2 防碰计算
+						  </p>
+
+
+                        <p class="image-center">	
+                            <img src="images/experiment1-3.png" alt="Image"  /> <br />
+                            图3 靶点三维可视化
+						  </p>
+
+
+                        <p class="image-center">	
+                            <img src="images/experiment1-4.png" alt="Image"  /> <br />
+                            图4 实钻轨迹三维可视化
+						  </p>
+
+
+						<p class="p-indent">
+                            该系统可以直观地展示地下地层及钻井轨迹等真实场景，提供了与钻井现场作业一致的虚拟仿真环境，有助于学生直观理解和感受钻井过程中井眼穿越的地层情况，掌握定向井作业的技术难点及设计过程，对于提高学生对于地质模型和井眼轨道等知识点的理解具有十分重要的现实意义。该系统所支持的课程与实验项目如表1所示。
+                          </p>
+
+
+                        
+						 <!-- 4nd row for content -->
+                                <!-- Box Start -->
+                                <div class="box">
+                                    <div class="top"><span></span></div>
+                                    <div class="box-content">
+                                        <div class="box-content2">
+                                            <div class="box-padding">
+
+                                                <!-- Content Begin -->
+                                                <h2>临境地质模拟及三维井眼轨迹显示系统支持的课程与实验项目</h2>
+                                                <table cellspacing="0">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>序号</th>
+                                                            <th>课程名称/教学时数</th>
+                                                            <th>实验项目/实验时数</th>
+                                                            <th>应用方式</th>
+                                                        </tr>
+
+
+
+
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>1</td>
+                                                            <td>钻井工程（双语）/54</td>
+                                                            <td>测斜计算/4</td>
+                                                            <td>辅助计算</td>
+                                                        </tr>
+
+
+
+
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>2</td>
+                                                            <td>石油工业概论/32</td>
+                                                            <td>定向井/2</td>
+                                                            <td>虚拟演示</td>
+                                                        </tr>
+
+
+
+
+														 </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>3</td>
+                                                            <td>钻井工程课程设计/2周</td>
+                                                            <td>井眼轨道设计/8</td>
+                                                            <td>辅助设计</td>
+                                                        </tr>
+
+
+
+														 </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>4</td>
+                                                            <td>钻井新技术/24</td>
+                                                            <td>水平井设计/4</td>
+                                                            <td>辅助设计</td>
+                                                        </tr>
+
+
+
+														 </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>5</td>
+                                                            <td>研究生现代钻井技术/24</td>
+                                                            <td>水平井设计/4</td>
+                                                            <td>辅助设计</td>
+                                                        </tr>
+
+                       
+                                                <table cellspacing="0">
+
+                      
+						<!-- Content End -->					
+						
+						</div>
+					</div>
+					
+				</div>
+				<div class="bottom"><span></span></div>
+			</div>
+            <!-- Footer -->
+            <!-- Box Start -->
+            <div class="box">
+                <div class="top"><span></span></div>
+                <div class="box-content">
+                    <div class="box-content2">
+                        <div class="box-padding">
+
+                            <!-- Content Begin -->
+
+                            <div class="float-left">
+                                <p>
+
+                                    &copy; 西安石油大学石油工程学院钻井教研室 邮编：710065  电话：88382690<br />
+                                </p>
+
+
+                                <!-- Content End -->
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="bottom"><span></span></div>
+                </div>
+
+                <div class="clear"></div>
+                
+            </div>
+
+</body>
+</html>

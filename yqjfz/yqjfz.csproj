@@ -67,6 +67,25 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="history.html" />
+    <Content Include="images\experiment1-1.png" />
+    <Content Include="images\experiment1-2.png" />
+    <Content Include="images\experiment1-3.png" />
+    <Content Include="images\experiment1-4.png" />
+    <Content Include="images\experiment2-1.png" />
+    <Content Include="images\experiment2-2.png" />
+    <Content Include="images\experiment2-3.png" />
+    <Content Include="images\experiment2-4.png" />
+    <Content Include="images\experiment2-5.png" />
+    <Content Include="images\experiment3-1.png" />
+    <Content Include="images\experiment3-2.png" />
+    <Content Include="images\experiment3-3.png" />
+    <Content Include="images\experiment3-4.png" />
+    <Content Include="images\experiment3-5.png" />
+    <Content Include="images\experiment4-1.png" />
+    <Content Include="images\experiment4-2.png" />
+    <Content Include="images\experiment4-3.png" />
+    <Content Include="images\experiment4-4.png" />
+    <Content Include="images\experiment4-5.png" />
     <Content Include="images\header1.jpg" />
     <Content Include="images\image-1.jpg" />
     <Content Include="images\image-2.jpg" />
@@ -83,6 +102,12 @@
     <Content Include="images\teach-1.png" />
     <Content Include="innovation.html" />
     <Content Include="packages.config" />
+    <Content Include="teach-experiment-1.html.bak" />
+    <Content Include="teach-experiment-2.html.bak" />
+    <Content Include="teach-experiment-3.html.bak" />
+    <Content Include="teach-experiment-4.html.bak" />
+    <Content Include="teach-experiment.html.bak" />
+    <Content Include="teach-share.html.bak" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -179,6 +204,10 @@
     <Content Include="services.html" />
     <Content Include="staff-chief.html" />
     <Content Include="staff-other.html" />
+    <Content Include="teach-experiment-1.html" />
+    <Content Include="teach-experiment-2.html" />
+    <Content Include="teach-experiment-3.html" />
+    <Content Include="teach-experiment-4.html" />
     <Content Include="teach-experiment.html" />
     <Content Include="teach-plan.html" />
     <Content Include="teach-resource.html" />

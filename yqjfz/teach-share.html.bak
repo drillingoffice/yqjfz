@@ -1,0 +1,607 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+		<title>教学共享</title>
+		<!-- layout style -->
+		<link href="css/reset.css" rel="stylesheet" type="text/css" media="screen" />
+		<link href="css/typography.css" rel="stylesheet" type="text/css" media="screen" />
+		<link href="css/style.css" rel="stylesheet" type="text/css" media="screen" />
+		
+		<!-- jquery -->
+		<script type="text/javascript" src="scripts/jquery-1.2.6.min.js"></script>
+		<!-- jflow -->
+		<script type="text/javascript" src="scripts/jquery.flow.1.2.min.js"></script>
+		<!-- superfish -->
+		<link rel="stylesheet" type="text/css" href="css/superfish.css" media="screen" />
+		<script type="text/javascript" src="scripts/hoverIntent.js"></script>
+		<script type="text/javascript" src="scripts/superfish.js"></script>
+		<!-- initialize slider -->
+		<script type="text/javascript" src="scripts/init_jflow_slider.js"></script>
+
+		<script type="text/javascript">
+
+		jQuery(function(){
+			jQuery('ul.sf-menu').superfish();
+		});
+		
+		</script>
+		<!--[if IE 6]>
+		<script src="scripts/dd_belated_png.js"></script>
+		<script>
+			DD_belatedPNG.fix('#header-left-border, #header-right-border, #header-left-border-subpage, #header-right-border-subpage, #header-center-border, #header-center-border-subpage, #logo, img, blockquote');
+		</script>
+		<![endif]--> 
+
+	</head>
+<body>
+
+<div id="wrapper-subpage">
+
+    <div id="container">
+        <div id="top">
+            <div id="logo">
+                <a href="index.html"><img src="images/logo.png" alt="" /></a>
+            </div>
+            <div id="top-right">
+                <div id="block-search">
+                    <h2>Search</h2>
+
+                    <div class="content">
+                        <!--form action="/corporate/"  accept-charset="UTF-8" method="post" id="search-block-form">
+                        <div>
+                            <div class="container-inline">
+                                <div class="form-item" id="edit-search-wrapper">
+                                    <input type="text" maxlength="128" name="search_block_form" id="edit-search" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+                                </div>
+                                <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+                            </div>
+
+                        </div>
+                        </!--form-->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div id="menu-container">
+
+            <div id="nav-menu">
+                <ul class="sf-menu">
+                    <li>
+                        <a href="index.html">首页</a>
+                    </li>
+                    <li>
+                        <a href="history.html">发展历程</a>
+                    </li>
+                    <li>
+                        <a href="project.html">建设概况</a>
+                    </li>
+                    <li>
+                        <a href="innovation.html">特色创新</a>
+                    </li>
+                    <li>
+                        <a href="teach-resource.html" class="current">教学资源</a>
+                        <ul>
+                            <li>
+                                <a href="teach-experiment.html">教学实验</a>
+                            </li>
+                            <li>
+                                <a href="teach-share.html">教学共享</a>
+                            </li>
+                            <li>
+                                <a href="teach-plan.html">共享计划</a>
+                            </li>
+
+                            <li>
+                                <a href="teach-result.html">成果转化</a>
+
+                            </li>
+
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="platform-information.html">平台建设</a>
+
+                        <ul>
+                            <li><a href="platform-information.html">信息化平台</a></li>
+                            <li><a href="platform-provider.html">条件保障</a></li>
+                        </ul>
+                    </li>
+
+                    <li>
+                        <a href="staff-chief.html">教学队伍</a>
+                        <ul>
+                            <li><a href="staff-chief.html">教学负责人</a></li>
+                            <li><a href="staff-other.html">队伍情况</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="contact.html">联系我们</a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+        <div class="clear"></div>
+        <div id="header-subpage">
+            <div id="header-left-border-subpage"></div>
+            <div id="header-center-border-subpage">
+
+                <div id="header-content-container-subpage">
+                    <div id="header-content">
+                        <div class="float-left">
+                            <div id="header-content-h1-padding">
+                                <h1>教学共享</h1>
+                            </div>
+                        </div>
+                        <div class="float-right">
+                            <div id="header-content-h3-padding">
+                                <h3>我们共享的教学资源</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div id="header-right-border-subpage"></div>
+        </div>
+
+        <!-- Box Start -->
+        <div class="box">
+            <div class="top"><span></span></div>
+            <div class="box-content">
+                <div class="box-content2">
+                    <div class="box-padding">
+
+                        <!-- Content Begin -->
+
+                        <h2>教学共享</h2>
+                        <p>
+                            <span class="span-indent">
+                                （1）教学资源共享的范围
+                            </span><br />
+                            <span class="span-indent">
+                                本实验教学中心建设的主旨是服务于石油工程专业、计算机应用技术、电子工程专业的实践教学工作，目前已经建设了“钻井工程精品课程网站(http://course.xsyu.edu.cn/zjgc/)”，该网站包括内容有课程介绍、教学内容、教学特色、教学视频、试题库、课程答疑等相关课程内容。多年以来通过不断完善网站内容、功能以及结构，网站已经具有丰富的教学资源，为所有教师以及学生提供教学资源共享，拓展了教学的空间，取得良好的效果。
+                                中心所有虚拟仿真软件在教学硬件基础上面向西安石油大学实现资源授权共享，已建成的邻境地质环境资源模拟仿真中心实现了对于钻井地质数据的三维可视化模拟仿真，井控模拟及培训中心在实现了井控培训的基本功能基础上提供了压井作业全过程动态模拟仿真，钻井钻进工程辅助设计网络平台实现了基于网络化的多人协同多任务协同作业功能，中心所有的仿真教学资源已经成为学校实践教学基地，该资源每年服务的石油工程专业本科生350人次，开设了钻井工程课程设计、井控操作课程设计、井控操作培训、固井设计、井身设计、测斜计算、一体化集成设计等实验教学项目。
+                            </span><br />
+                            <span class="span-indent">
+                                （2）网络虚拟仿真实验教学资源共享
+                            </span><br />
+                            <span class="span-indent">
+                                该虚拟仿真实验教学中心建设的硬件基础包括石油钻机及配套设备，井控设备及控制平台，在此基础上，该中心提供了丰富的网络虚拟仿真教学资源共享。邻境地质环境模拟仿真中心在通过地质地层三维建模方法实现了地质信息沉浸式可视化，该教学资源可通过网络终端实现教学资源共享；钻井钻进工程辅助设计网络平台通过网络来实现不同人协同式交互设计，对于最终设计结果可通过模拟仿真进行合理性、科学性验证。该中心建设了基于校园网络的实验教学访问网站，实现了对于教学资源网络共享与管理。网络虚拟实验教学资源已经实现校内计算机学院和电子工程学院专业资源共享，学生可通过校园网登录来访问虚拟实验教学资源，从而实现了网络资源的互动式教学。
+                            </span><br />
+                            <span class="span-indent">
+                                （3）教学资源共享效果
+                            </span><br />
+                            <span class="span-indent">
+                                ①提高了学生的实践创新能力
+                            </span><br />
+                            <span class="span-indent">
+                                虚拟仿真教学中心来源于科研成果的转换，不仅丰富了理论教学的内容，同时提供了实践教学的手段，激发了学生对于专业学习的兴趣以及创新能力，近几年来中心培养学生在动手实践、创新创业方面不断取得成功，近5以来年，中心培养学生完成中国石油工程设计大赛50余项，获全国奖10余项，完成创新创业设计大赛10项，提高了本科生的教学水平，达到了中心建设的目的。
+                            </span><br />
+                        </p>
+
+                        <!-- 4nd row for content -->
+                        <!-- Box Start -->
+                        <div class="box">
+                            <div class="top"><span></span></div>
+                            <div class="box-content">
+                                <div class="box-content2">
+                                    <div class="box-padding">
+
+                                        <!-- Content Begin -->
+                                        <h2>表1 中心培养本科生参加中国石油工程设计大赛名单</h2>
+                                        <table cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th>序号</th>
+                                                    <th>学科类别</th>
+                                                    <th>负责人</th>
+                                                    <th>时间</th>
+                                                    <th>指导教师</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>1</td>
+                                                    <td>综合组</td>
+                                                    <td>米杰</td>
+                                                    <td>2013</td>
+                                                    <td>刘易飞</td>
+                                                </tr>
+                                                <tr class="even">
+                                                    <td>2</td>
+                                                    <td>综合组</td>
+                                                    <td>王琛</td>
+                                                    <td>2013</td>
+                                                    <td>李天太</td>
+                                                </tr>
+                                                <tr class="even">
+                                                    <td>3</td>
+                                                    <td>综合组</td>
+                                                    <td>周佰振</td>
+                                                    <td>2013</td>
+                                                    <td>李琪</td>
+                                                </tr>
+                                                <tr class="even">
+                                                    <td>4</td>
+                                                    <td>综合组</td>
+                                                    <td>张浩</td>
+                                                    <td>2013</td>
+                                                    <td>陈明强</td>
+                                                </tr>
+												<tr class="even">
+                                                    <td>5</td>
+                                                    <td>综合组</td>
+                                                    <td>刘庆</td>
+                                                    <td>2013</td>
+                                                    <td>邓治安</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>6</td>
+                                                    <td>综合组</td>
+                                                    <td>段雨安</td>
+                                                    <td>2013</td>
+                                                    <td>王瑞飞</td>
+                                                </tr>
+												<tr class="even">
+                                                    <td>7</td>
+                                                    <td>综合组</td>
+                                                    <td>郝帆帆</td>
+                                                    <td>2013</td>
+                                                    <td>李琪</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>8</td>
+                                                    <td>综合组</td>
+                                                    <td>宋宪印</td>
+                                                    <td>2013</td>
+                                                    <td>徐士祺</td>
+                                                </tr>
+												<tr class="even">
+                                                    <td>9</td>
+                                                    <td>综合组</td>
+                                                    <td>巨全利</td>
+                                                    <td>2013</td>
+                                                    <td>李琪</td>
+                                                </tr>
+												 <tr class="even">
+                                                    <td>10</td>
+                                                    <td>钻完井工程</td>
+                                                    <td>尹永涛</td>
+                                                    <td>2013</td>
+                                                    <td>张宁生</td>
+                                                </tr>
+												<tr class="even">
+                                                    <td>11</td>
+                                                    <td>综合组</td>
+                                                    <td>杨帆</td>
+                                                    <td>2014</td>
+                                                    <td>李琪</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>12</td>
+                                                    <td>综合组</td>
+                                                    <td>李茂</td>
+                                                    <td>2014</td>
+                                                    <td>李琪</td>
+                                                </tr>
+												<tr class="even">
+                                                    <td>13</td>
+                                                    <td>综合组</td>
+                                                    <td>胡继辉</td>
+                                                    <td>2014</td>
+                                                    <td>李琪</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>14</td>
+                                                    <td>综合组</td>
+                                                    <td>韩旭</td>
+                                                    <td>2014</td>
+                                                    <td>高晓荣</td>
+                                                </tr>
+												<tr class="even">
+                                                    <td>15</td>
+                                                    <td>综合组</td>
+                                                    <td>李展峰</td>
+                                                    <td>2014</td>
+                                                    <td>任晓娟</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>16</td>
+                                                    <td>综合组</td>
+                                                    <td>刘磊</td>
+                                                    <td>2014</td>
+                                                    <td>高晓荣</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>17</td>
+                                                    <td>综合组</td>
+                                                    <td>孙宇</td>
+                                                    <td>2014</td>
+                                                    <td>曹宝格</td>
+                                                </tr>
+												<tr class="even">
+                                                    <td>18</td>
+                                                    <td>综合组</td>
+                                                    <td>梅舒涵</td>
+                                                    <td>2014</td>
+                                                    <td>高晓荣</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>19</td>
+                                                    <td>综合组</td>
+                                                    <td>杜文</td>
+                                                    <td>2014</td>
+                                                    <td>曹宝格</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>20</td>
+                                                    <td>钻完井工程</td>
+                                                    <td>左名圣</td>
+                                                    <td>2014</td>
+                                                    <td>张明</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>21</td>
+                                                    <td>综合组</td>
+                                                    <td>孙健</td>
+                                                    <td>2015</td>
+                                                    <td>陈明强</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>22</td>
+                                                    <td>综合组</td>
+                                                    <td>杜川海</td>
+                                                    <td>2015</td>
+                                                    <td>刘晓娟</td>
+                                                </tr>
+												<tr class="even">
+                                                    <td>23</td>
+                                                    <td>综合组</td>
+                                                    <td>彭娇</td>
+                                                    <td>2015</td>
+                                                    <td>周德胜</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>24</td>
+                                                    <td>综合组</td>
+                                                    <td>王再兴</td>
+                                                    <td>2015</td>
+                                                    <td>李琪</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>25</td>
+                                                    <td>综合组</td>
+                                                    <td>钟新宇</td>
+                                                    <td>2015</td>
+                                                    <td>王寿喜</td>
+                                                </tr>
+												<tr class="even">
+                                                    <td>26</td>
+                                                    <td>综合组</td>
+                                                    <td>杨宏拓</td>
+                                                    <td>2015</td>
+                                                    <td>李天太</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>27</td>
+                                                    <td>钻完井工程</td>
+                                                    <td>张彤</td>
+                                                    <td>2015</td>
+                                                    <td>李琪</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>28</td>
+                                                    <td>钻完井工程</td>
+                                                    <td>李必智</td>
+                                                    <td>2015</td>
+                                                    <td>李琪</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>29</td>
+                                                    <td>钻完井工程</td>
+                                                    <td>沈黎阳</td>
+                                                    <td>2015</td>
+                                                    <td>李琪</td>
+                                                </tr>
+												<tr class="even">
+                                                    <td>30</td>
+                                                    <td>钻完井工程</td>
+                                                    <td>薛鸿禧</td>
+                                                    <td>2015</td>
+                                                    <td>张宁生</td>
+                                                </tr>
+												<tr class="even">
+                                                    <td>31</td>
+                                                    <td>钻完井工程</td>
+                                                    <td>石豫</td>
+                                                    <td>2015</td>
+                                                    <td>周德胜</td>
+                                                </tr>
+												<tr class="even">
+                                                    <td>32</td>
+                                                    <td>钻完井工程</td>
+                                                    <td>张鹏辉</td>
+                                                    <td>2015</td>
+                                                    <td>窦亮彬</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>33</td>
+                                                    <td>综合组</td>
+                                                    <td>王欣</td>
+                                                    <td>2016</td>
+                                                    <td>蒋华义</td>
+                                                </tr>
+												<tr class="even">
+                                                    <td>34</td>
+                                                    <td>钻完井工程</td>
+                                                    <td>辛亮</td>
+                                                    <td>2016</td>
+                                                    <td>李天太</td>
+                                                </tr> 
+												<tr class="even">
+                                                    <td>35</td>
+                                                    <td>钻完井工程</td>
+                                                    <td>肖江</td>
+                                                    <td>2016</td>
+                                                    <td>李琪</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+
+
+                                        <!-- Content End -->
+
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="bottom"><span></span></div>
+                        </div>
+                        <div class="clear"></div>
+                        <!-- Box End -->
+
+                    </div>
+
+                </div>
+
+                <div class="clear"></div>
+
+
+                <!-- 4nd row for content -->
+                <!-- Box Start -->
+                <div class="box">
+                    <div class="top"><span></span></div>
+                    <div class="box-content">
+                        <div class="box-content2">
+                            <div class="box-padding">
+
+                                <!-- Content Begin -->
+                                <h2>表2 中心培养本科生参加中国创新创业大赛名单</h2>
+                                <table cellspacing="0">
+                                    <thead>
+                                        <tr>
+                                            <th>序号</th>
+                                            <th>项目名称</th>
+                                            <th>负责人</th>
+                                            <th>级别</th>
+                                            <th>开展时间</th>
+                                            <th>指导教师</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>关于利用水力提高钻井钻速工具的研制与开发</td>
+                                            <td>李斌</td>
+                                            <td>国家级</td>
+                                            <td>2012.4 </td>
+                                            <td>李琪</td>
+                                        </tr>
+                                        <tr class="even">
+                                            <td>2</td>
+                                            <td>水平井机械封隔分段压裂技术研究</td>
+                                            <td>熊浩</td>
+                                            <td>校级</td>
+                                            <td>2012.9</td>
+                                            <td>李琪</td>
+                                        </tr>
+                                        <tr class="even">
+                                            <td>3</td>
+                                            <td>提高PDC钻头切削齿力学性能的脱钴改性研究</td>
+                                            <td>庞明越</td>
+                                            <td>省级</td>
+                                            <td>2014.4</td>
+                                            <td>王潜龙</td>
+                                        </tr>
+                                        <tr class="even">
+                                            <td>4</td>
+                                            <td>HTHP水泥环完整性模拟试验仪</td>
+                                            <td>宋涛涛</td>
+                                            <td>省级</td>
+                                            <td>2014.4</td>
+                                            <td>杨振杰</td>
+                                        </tr>
+                                        <tr class="even">
+                                            <td>5</td>
+                                            <td>页岩气储层水平井井壁稳定性研究</td>
+                                            <td>李景舜</td>
+                                            <td>省级</td>
+                                            <td>2015.5</td>
+                                            <td>赵凯</td>
+                                        </tr>
+                                        <tr class="even">
+                                            <td>6</td>
+                                            <td>CO2井筒压力精确预测与控制</td>
+                                            <td>李强</td>
+                                            <td>省级</td>
+                                            <td>2015.5</td>
+                                            <td>窦亮彬</td>
+                                        </tr>
+                                        <tr class="even">
+                                            <td>7</td>
+                                            <td>激光射孔破岩机理及影响因素研究</td>
+                                            <td>段锐</td>
+                                            <td>省级</td>
+                                            <td>2016.5</td>
+                                            <td>赵凯</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+
+
+                                <!-- Content End -->
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="bottom"><span></span></div>
+                </div>
+                <div class="clear"></div>
+                <!-- Box End -->
+
+            </div>
+
+        <span class="span-indent">
+            ②提升了实验教学水平，取得了教学成果
+        </span><br />
+        <span class="span-indent">
+            本实验教学中心自建设以来，不仅注重实践教学工作，并且在科研转化为教学资源方面不断深入研究，中心实现了虚拟实验教学资源的充分共享，提高了实验教学建设的水平。
+            近五年以来，该中心在建设过程中获得了省部级一等奖1项，陕西省教育厅立项资助项目3项，西安石油大学校级资助项目3项，公开发表科研论文25篇，其中EI，SCI检索5篇，出版专著2部，取得具有自主知识版权的软件著作权20项，发明专利2项。这些成果体现了实验教学中心建设的水平，更为中心进一步发展建设奠定了基础。
+        </span>
+        <!-- Content End -->
+			</div>
+            <!-- Footer -->
+            <!-- Box Start -->
+            <div class="box">
+                <div class="top"><span></span></div>
+                <div class="box-content">
+                    <div class="box-content2">
+                        <div class="box-padding">
+
+                            <!-- Content Begin -->
+
+                            <div class="float-left">
+                                <p>
+
+                                    &copy; 西安石油大学石油工程学院钻井教研室 邮编：710065  电话：88382690<br />
+                                </p>
+
+
+                                <!-- Content End -->
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="bottom"><span></span></div>
+                </div>
+
+                <div class="clear"></div>
+                
+            </div>
+
+</body>
+</html>
